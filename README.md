@@ -1,4 +1,4 @@
-# VIPUL <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px">
+# Ankur <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px">
 
 ### Hi there 👋
 ## I am a Enginnering Student and I am a web-developer and design thinker.
@@ -9,13 +9,13 @@
 
 ## Contact Me:
 <p>
-  <a href="mailto:vipulgup.2204@gmail.com">
+  <a href="mailto:ankurgupta032002@gmail.com">
     <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vipul-gup-2204/">
+  <a href="https://www.linkedin.com/in//">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/its_vipul.gupta/">
+  <a href="https://www.instagram.com/ankur.gupta_3/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
